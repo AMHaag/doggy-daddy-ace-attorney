@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  },
+  "name": "doggy-daddy-ace-attorney",
+  "version": "0.0.1",
+  "description": "Module 13 assignment",
+  "main": "sever.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "kill": "npx kill-port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMHaag/doggy-daddy-ace-attorney.git"
+  },
+  "author": "Aaron M Haag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMHaag/doggy-daddy-ace-attorney/issues"
+  },
+  "homepage": "https://github.com/AMHaag/doggy-daddy-ace-attorney#readme"
+}
